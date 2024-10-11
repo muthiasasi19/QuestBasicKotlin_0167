@@ -10,6 +10,10 @@ fun main() {
     val intValue: Int =30
     println(intValue)
 
+    //Float
+    val floatValue: Float = 50.6f //kalau float pake 'f' Kalau double tidak pakai 'f'
+    println("Float: $floatValue")
+
 
 
 }
