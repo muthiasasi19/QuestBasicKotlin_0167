@@ -4,7 +4,7 @@ fun main() {
 
     // Byte
     val byteValue: Byte = 10
-    println("Byte: $byteValue") // kalau dalam string harus menggunakan '$'
+    println("Byte: $byteValue")
 
 
 
