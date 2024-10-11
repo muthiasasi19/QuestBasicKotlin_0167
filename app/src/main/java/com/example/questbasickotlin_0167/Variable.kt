@@ -6,7 +6,9 @@ fun main() {
     val byteValue: Byte = 10
     println("Byte: $byteValue")
 
-
+    // int
+    val intValue: Int =30
+    println(intValue)
 
 
 
