@@ -18,15 +18,15 @@ fun main() {
     val doubleValue: Double = 10.5
     println("Double: $doubleValue")
 
-    // Char
+    //char
     val charValue: Char = 'A'
     println("Char: $charValue")
 
-    //Boolean
+    //boolean
     val booleanValue: Boolean = true
     println("Boolean : $booleanValue")
 
-    //String
+    //string
     var stringValue: String = "Hello, World!"
     println("String: $stringValue")
 
