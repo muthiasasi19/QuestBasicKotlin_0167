@@ -35,4 +35,5 @@ fun main() {
     withParameter("John")
     withNamedArgument("John", age = 30)
     withDefaultParameter(age = 25)
+    withReturn(panjang = 10, lebar = 5)
 }
